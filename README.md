@@ -281,7 +281,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 # Vi(Vim)
 
-> CLI 환경에서 쓸 수 있는 텍스트 에디터 중 하나 
+> CLI 환경에서 쓸 수 있는 텍ㅎ스트 에디터 중 하나 
 
 commit 하는 과정에서 메시지 옵션을 쓰지 않으면, 나타난다. 
 
